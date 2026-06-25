@@ -29,7 +29,7 @@ This project analyzes Swiggy food delivery data using Excel, Python, SQL, and Po
 - Swiggy_Dashboard.pbix
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Insights
 - Identified top-performing restaurants
